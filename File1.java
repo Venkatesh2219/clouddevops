@@ -1,3 +1,4 @@
+
 public class File1
 {
  public static void main(String[] args)
@@ -5,3 +6,6 @@ public class File1
   System.out.println("First statement");
  }
 }
+//modified by clone operation 
+
+
